@@ -1,0 +1,15 @@
+
+instalar libreria uuid : npm install uuid
+
+import { v4 as uuidv4 } from 'uuid';
+si hay errores en el import, referencia
+
+https://superuser.com/questions/1559070/module-not-found-cant-resolve-uuid-v4
+
+   const { v4: uuidv4 } = require('uuid');
+
+   // -------------------- subir a Producción - Cuenta GitHub en netlify
+   Generar el build de Producción - ejecutar: npm run build 
+
+se ingresa a Netlify, y en Sites se arrastra la caperta Build, aparecera que ya esta listo .
+https://practical-knuth-a60608.netlify.app/
