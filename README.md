@@ -1,6 +1,6 @@
 # Datos
 
-La aplicacion fue deploy en Netlify
+La aplicacion fue deploy en Netlify - 28/07/2021
 
 https://practical-knuth-a60608.netlify.app/
 
