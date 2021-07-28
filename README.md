@@ -2,7 +2,7 @@
 
 La aplicacion fue deploy en Netlify
 
-https://app.netlify.com/sites/practical-knuth-a60608/settings/general
+https://practical-knuth-a60608.netlify.app/
 
 # Getting Started with Create React App
 
