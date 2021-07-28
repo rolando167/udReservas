@@ -1,3 +1,9 @@
+# Datos
+
+La aplicacion fue deploy en Netlify
+
+https://app.netlify.com/sites/practical-knuth-a60608/settings/general
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
