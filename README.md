@@ -4,7 +4,7 @@ La aplicacion fue deploy en Netlify
 
 https://practical-knuth-a60608.netlify.app/
 
-![alt text](https://https://github.com/rolando167/udReservas/blob/master/main.jpg)
+![alt text](https://github.com/rolando167/udReservas/blob/master/main.jpg)
 
 # Getting Started with Create React App
 
